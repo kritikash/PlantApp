@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:2:1-46:12
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:2:1-62:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mjena/.gradle/caches/transforms-2/files-2.1/f42e191ac2359971151b1e76b78b328b/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.android:facebook-login:5.1.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/d29eda84e537d079deedc0485ff9c731/AndroidManifest.xml:21:1-31:12
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/e8e14d2815e9779833a02b0b7ddfd5b2/AndroidManifest.xml:17:1-39:12
@@ -62,25 +62,27 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mjena/.gradle/c
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/9778d9b2584183e97693baf2e9699520/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/1bdde9bc8a3368d360b6c84be241bf71/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/dfa2e8051b70c8201d680950d02fe53e/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:2:1-62:12
 	package
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:3:5-37
-		INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:4:5-36
+		INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:2:1-46:12
-		INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:2:1-62:12
+		INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:2:1-46:12
-		INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:2:1-62:12
+		INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:6:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/bde6bffcabd947160f18475a5eed658f/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/bde6bffcabd947160f18475a5eed658f/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/2590fbe3d47fc80f18d2508a744e4d0c/AndroidManifest.xml:23:5-67
@@ -92,9 +94,9 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/0ef7d877a8b21a0d07c4c90559684238/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/0ef7d877a8b21a0d07c4c90559684238/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:7:5-44:19
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:8:5-60:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mjena/.gradle/caches/transforms-2/files-2.1/f42e191ac2359971151b1e76b78b328b/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mjena/.gradle/caches/transforms-2/files-2.1/f42e191ac2359971151b1e76b78b328b/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.android:facebook-login:5.1.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/d29eda84e537d079deedc0485ff9c731/AndroidManifest.xml:28:5-29:19
@@ -150,87 +152,99 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0-rc01] /Users/mjena/.gradle/caches/transforms-2/files-2.1/250f52239a7f88ce0bde7a31dae7921c/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:13:9-40
-activity#com.example.plantsapp1.PlantList2
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:14:9-57
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.plantsapp.SearchBar
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:15:9-25:20
 	android:name
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:14:19-45
-activity#com.example.plantsapp1.PlantList
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:15:9-47
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:15:19-44
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:16:13-18:29
+action#android.intent.action.SEARCH
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:17:17-71
 	android:name
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:15:19-44
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:17:25-68
+meta-data#android.app.searchable
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:20:13-23:25
+	android:resource
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:22:17-54
+	android:name
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:21:17-54
+activity#com.example.plantsapp.PlantList2
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:27:9-48
+	android:name
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:27:19-45
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:17:9-19:55
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:32:9-34:55
 	android:value
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:19:13-52
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:34:13-52
 	android:name
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:18:13-58
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:33:13-58
 activity#com.facebook.FacebookActivity
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:21:9-24:48
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:36:9-39:48
 MERGED from [com.facebook.android:facebook-common:5.1.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/814d33788a276e560f91ca737a189814/AndroidManifest.xml:29:9-32:66
 MERGED from [com.facebook.android:facebook-common:5.1.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/814d33788a276e560f91ca737a189814/AndroidManifest.xml:29:9-32:66
 	android:label
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:24:13-45
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:39:13-45
 	android:configChanges
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:23:13-96
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:38:13-96
 	android:theme
 		ADDED from [com.facebook.android:facebook-common:5.1.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/814d33788a276e560f91ca737a189814/AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:22:13-57
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:37:13-57
 activity#com.facebook.CustomTabActivity
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:25:9-36:20
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:41:9-52:20
 MERGED from [com.facebook.android:facebook-common:5.1.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/814d33788a276e560f91ca737a189814/AndroidManifest.xml:34:9-67
 MERGED from [com.facebook.android:facebook-common:5.1.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/814d33788a276e560f91ca737a189814/AndroidManifest.xml:34:9-67
 	android:exported
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:27:13-36
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:43:13-36
 	android:name
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:26:13-58
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:42:13-58
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:28:13-35:29
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:44:13-51:29
 action#android.intent.action.VIEW
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:29:17-69
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:45:17-69
 	android:name
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:45:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:31:17-76
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:47:17-76
 	android:name
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:31:27-73
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:47:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:32:17-78
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:48:17-78
 	android:name
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:32:27-75
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:48:27-75
 data
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:34:17-75
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:50:17-75
 	android:scheme
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:34:23-72
-activity#com.example.plantsapp1.MainActivity
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:37:9-43:20
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:50:23-72
+activity#com.example.plantsapp.MainActivity
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:54:9-59:20
 	android:name
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:37:19-47
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:54:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:38:13-42:29
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:55:13-58:29
 action#android.intent.action.MAIN
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:39:17-69
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:56:17-69
 	android:name
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:39:25-66
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:56:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:41:17-77
+ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:57:17-77
 	android:name
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml:41:27-74
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml:57:27-74
 uses-sdk
-INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
-INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mjena/.gradle/caches/transforms-2/files-2.1/f42e191ac2359971151b1e76b78b328b/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mjena/.gradle/caches/transforms-2/files-2.1/f42e191ac2359971151b1e76b78b328b/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.android:facebook-login:5.1.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/d29eda84e537d079deedc0485ff9c731/AndroidManifest.xml:24:5-26:41
@@ -347,16 +361,16 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mjena/.gradle/caches/
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/1bdde9bc8a3368d360b6c84be241bf71/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/dfa2e8051b70c8201d680950d02fe53e/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/dfa2e8051b70c8201d680950d02fe53e/AndroidManifest.xml:20:5-44
-INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
-INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mjena/Desktop/PlantApp/app/src/main/AndroidManifest.xml
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/mjena/.gradle/caches/transforms-2/files-2.1/e8e14d2815e9779833a02b0b7ddfd5b2/AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents

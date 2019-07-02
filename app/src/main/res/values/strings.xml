@@ -3,6 +3,7 @@
     <string name="facebook_app_id">2321591371390183</string>
     <string name="fb_login_protocol_scheme">fb2321591371390183</string>
     <string name="action_settings">Settings</string>
+    <string name="search_title">Search</string>
 
     <string name="btn_logout_from_google">Logout from Google</string>
     <string name="btn_revoke_access">Revoke Access</string>

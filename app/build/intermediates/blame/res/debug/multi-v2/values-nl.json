@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+            "outputFile": "/Users/mjena/Desktop/PlantApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "/Users/mjena/.gradle/caches/transforms-2/files-2.1/d29eda84e537d079deedc0485ff9c731/res/values-nl/values-nl.xml",

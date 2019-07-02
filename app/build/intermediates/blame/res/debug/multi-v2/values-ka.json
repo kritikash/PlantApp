@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
+            "outputFile": "/Users/mjena/Desktop/PlantApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
             "map": [
                 {
                     "source": "/Users/mjena/.gradle/caches/transforms-2/files-2.1/8b926df90bd70bab747c1822b868d672/res/values-ka/values.xml",

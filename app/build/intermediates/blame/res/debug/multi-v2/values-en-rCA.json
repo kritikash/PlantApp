@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mjena/Desktop/test/Java-Test/PlantsApp1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "/Users/mjena/Desktop/PlantApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
                     "source": "/Users/mjena/.gradle/caches/transforms-2/files-2.1/250f52239a7f88ce0bde7a31dae7921c/res/values-en-rCA/values-en-rCA.xml",
