@@ -25,8 +25,20 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.plantsapp1.PlantList2" />
-        <activity android:name="com.example.plantsapp1.PlantList" />
+        <activity android:name="com.example.plantsapp.SearchBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@layout/searchable" >
+            </meta-data>
+        </activity>
+        <!-- <activity android:name=".search" /> -->
+        <activity android:name="com.example.plantsapp.PlantList2" />
+        <!-- <activity android:name=".PlantList" -->
+        <!-- tools:ignore="DuplicateActivity" /> -->
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
@@ -49,7 +61,7 @@
                 <data android:scheme="@string/fb_login_protocol_scheme" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.plantsapp1.MainActivity" >
+        <activity android:name="com.example.plantsapp.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -160,11 +172,6 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-
-        <provider
-            android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.example.plantsapp1.com.android.tools.ir.server.InstantRunContentProvider"
-            android:multiprocess="true" />
     </application>
 
 </manifest>

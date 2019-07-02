@@ -782,6 +782,7 @@ drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_search
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -979,6 +980,7 @@ id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
+id search
 id search_badge
 id search_bar
 id search_button
@@ -1071,6 +1073,7 @@ layout abc_tooltip
 layout activity_main
 layout activity_plant_list
 layout activity_plant_list2
+layout activity_search_bar
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout com_facebook_activity_layout
@@ -1095,10 +1098,12 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout searchable
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+menu options_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 string abc_action_bar_home_description
@@ -1196,6 +1201,7 @@ string google_crash_reporting_api_key
 string google_storage_bucket
 string project_id
 string search_menu_title
+string search_title
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
