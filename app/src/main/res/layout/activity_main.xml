@@ -13,7 +13,8 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:paddingLeft="24dp"
-        android:paddingRight="24dp">
+        android:paddingRight="24dp"
+        android:background="@drawable/main_bg">
 
         <com.facebook.login.widget.LoginButton
             android:id="@+id/login_button"

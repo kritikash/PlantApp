@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "375191736797",
-    "firebase_url": "https://plants-69e99.firebaseio.com",
-    "project_id": "plants-69e99",
-    "storage_bucket": "plants-69e99.appspot.com"
+    "project_number": "69986416005",
+    "firebase_url": "https://plantsapp-32fba.firebaseio.com",
+    "project_id": "plantsapp-32fba",
+    "storage_bucket": "plantsapp-32fba.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:375191736797:android:4778887c0a66ae21",
+        "mobilesdk_app_id": "1:69986416005:android:277d000bbfb4aabb",
         "android_client_info": {
-          "package_name": "com.example.plantsapp1"
+          "package_name": "com.example.plantsapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "375191736797-h4dlcd11ak120kfdnrpt9894th96hs1f.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.plantsapp1",
-            "certificate_hash": "b3ba4e1685fadcc58813ccd1a97e8fd50d57c559"
-          }
-        },
-        {
-          "client_id": "375191736797-k0hg2oj20bobt4f254pacfnkso3i11rd.apps.googleusercontent.com",
+          "client_id": "69986416005-k54ngrb760a6cq7s0fubmp5tf03b4rrk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC2qByuMQBcIBpQIjN3jzIlC9DcqAad53E"
+          "current_key": "AIzaSyBbfJcReOrmIWjGiF-ho4K3lAeWNR046Ho"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "375191736797-kqu7dod783e1p2hv7d2vhaqgv4rshrdc.apps.googleusercontent.com",
+              "client_id": "69986416005-k54ngrb760a6cq7s0fubmp5tf03b4rrk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
