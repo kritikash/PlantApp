@@ -6,7 +6,7 @@
     android:paddingBottom="7dp"
     android:paddingTop="7dp"
     android:id="@+id/parent_layout"
-    android:background="#FF7F50">
+    android:background="#c8e0b3">
 
 
     <TextView
@@ -18,17 +18,27 @@
         android:layout_toRightOf="@id/image"
         android:gravity="center"
         android:layout_centerVertical="true"
-        android:textColor="#FFFAFA"
+        android:textColor="@color/colorPrimary"
         android:textSize="17sp"
         android:textStyle="normal" />
 
-    <ImageView
+    <!--<ImageView-->
+        <!--android:id="@+id/image"-->
+        <!--android:layout_width="80dp"-->
+        <!--android:layout_height="80dp"-->
+        <!--android:scaleType="centerCrop"-->
+
+        <!--android:src="@mipmap/ic_launcher" />-->
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
         android:id="@+id/image"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:scaleType="centerCrop"
 
-        android:src="@mipmap/ic_launcher" />
+        android:src="@mipmap/ic_launcher"
+       />
 
 
 

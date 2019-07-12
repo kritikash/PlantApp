@@ -13,6 +13,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
+import com.google.firebase.firestore.Query;
 
 import java.util.ArrayList;
 
@@ -25,11 +26,14 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
     private ArrayList<Plant> plantArrayList = new ArrayList<>();
 
-    private Context  mcontext;
+    private Context mcontext;
 
     public RecyclerViewAdapter(ArrayList<Plant> plants,  Context context) {
        this.plantArrayList = plants;
         this.mcontext = context;
+    }
+
+    public RecyclerViewAdapter(Query query) {
     }
 
     @NonNull
